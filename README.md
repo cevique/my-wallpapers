@@ -36,7 +36,7 @@ I'm working on a web app for `cee-wallpapers` for an interface to display the wa
 
 ### Anime
 <p align="center">
- <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/anime/katana.jpg">
+ <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/refs/heads/main/anime/katana.jpg">
 </p>
 
 ### Anime-Nord
@@ -46,47 +46,47 @@ I'm working on a web app for `cee-wallpapers` for an interface to display the wa
 
 ### Gradients
 <p align="center">
- <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/gradients/blue-waves.png">
+ <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/refs/heads/main/gradients/blue-waves.png">
 </p>
 
 ### Gruvbox-nord
 <p align="center">
- <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/gruvbox-nord/vintage_castle.jpg">
+ <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/refs/heads/main/gruvbox-nord/vintage_castle.jpg">
 </p>
 
 ### Hacking
 <p align="center">
- <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/hacking/nix.png">
+ <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/refs/heads/main/hacking/nix.png">
 </p>
 
 ### Illustrations
 <p align="center">
- <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/illustrations/deathandlife.png">
+ <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/refs/heads/main/illustrations/deathandlife.png">
 </p>
 
 ### Landscapes
 <p align="center">
- <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/landscapes/trees.png">
+ <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/refs/heads/main/landscapes/trees.png">
 </p>
 
 ### Mood-Boards
 <p align="center">
- <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/mood-boards/revolution-nord.png"">
+ <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/refs/heads/main/mood-boards/revolution-nord.png"">
 </p>
 
 ### Quotes
 <p align="center">
- <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/quotes/rumi-nord.png">
+ <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/refs/heads/main/quotes/rumi-nord.png">
 </p>
 
 ### Room
 <p align="center">
- <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/room/room.png">
+ <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/refs/heads/main/room/room.png">
 </p>
 
 ### Tokyo-Night
 <p align="center">
- <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/tokyo-night/two_peopl_bicycle.jpg">
+ <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/refs/heads/main/tokyo-night/two_peopl_bicycle.jpg">
 </p>
 
 ---
