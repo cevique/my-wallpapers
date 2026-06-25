@@ -41,7 +41,7 @@ I'm working on a web app for `cee-wallpapers` for an interface to display the wa
 
 ### Anime-Nord
 <p align="center">
- <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/anime-nord/anime-girl-nord.png">
+ <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/refs/heads/main/anime-nord/anime-girl-nord.png">
 </p>
 
 ### Gradients
