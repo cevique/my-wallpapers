@@ -89,6 +89,21 @@ I'm working on a web app for `my-wallpapers` for an interface to display the wal
  <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/refs/heads/main/tokyo-night/two_people_bicycle.jpg">
 </p>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/53014bb2-3129-4c1a-b20a-92142d8a30c5">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2ed69842-4b8a-4e31-8ce7-013f0c4e064c">
+  <img src="https://github.com/user-attachments/assets/53014bb2-3129-4c1a-b20a-92142d8a30c5">
+</picture>
+
+## Sponsor / Buy Me a Coffee
+
+If you'd like to support continued development:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-ff5e5b?style=flat-square&logo=ko-fi)](https://ko-fi.com/cevique)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor%20Me-ea4aaa?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/cevique)
+
 ---
+
 
 Copyright © 2025, *cevique*
