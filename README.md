@@ -81,12 +81,12 @@ I'm working on a web app for `my-wallpapers` for an interface to display the wal
 
 ### Room
 <p align="center">
- <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/refs/heads/main/room/room.png">
+ <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/refs/heads/main/room/room.jpg">
 </p>
 
 ### Tokyo-Night
 <p align="center">
- <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/refs/heads/main/tokyo-night/two_peopl_bicycle.jpg">
+ <img alt="GitHub" src="https://raw.githubusercontent.com/cevique/my-wallpapers/refs/heads/main/tokyo-night/two_people_bicycle.jpg">
 </p>
 
 ---
