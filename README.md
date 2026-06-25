@@ -2,7 +2,7 @@
 <h5 align="center">My collection of aesthetic wallpapers</h5>
 
 <p align="center">
- <img alt="GitHub" src="https://img.shields.io/github/directory-file-count/cevique/my-wallpapers/anime?style=for-the-badge&label=Anime&color=3E68D7&labelColor=151724">
+ <img alt="GitHub" src="https://img.shields.io/github/directory-file-count/cevique/my-wallpapers/anime?style=for-the-badge&label=Anime&color=D9E0EE&labelColor=151724">
  <img alt="GitHub" src="https://img.shields.io/github/directory-file-count/cevique/my-wallpapers/anime-nord?style=for-the-badge&label=Anime-Nord&color=D9E0EE&labelColor=151724">
  <img alt="GitHub" src="https://img.shields.io/github/directory-file-count/cevique/my-wallpapers/gradients?style=for-the-badge&label=Gradients&color=D9E0EE&labelColor=151724">
  <img alt="GitHub" src="https://img.shields.io/github/directory-file-count/cevique/my-wallpapers/gruvbox-nord?style=for-the-badge&label=Gruvbox-Nord&color=D9E0EE&labelColor=151724">
