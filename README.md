@@ -106,4 +106,4 @@ If you'd like to support continued development:
 ---
 
 
-Copyright © 2025, *cevique*
+Copyright © 2026, *cevique*
