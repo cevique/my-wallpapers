@@ -28,7 +28,7 @@ With :heart: by <a href="https://github.com/cevique/"><b>Cevique</b></a><br>
 
 ## Web App
 
-I'm working on a web app for `cee-wallpapers` for an interface to display the wallpapers.
+I'm working on a web app for `my-wallpapers` for an interface to display the wallpapers.
 <br>
 *Update will be shared soon*
 
